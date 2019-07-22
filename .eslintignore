@@ -1,0 +1,8 @@
+node_modules
+eslintrc.js
+.gitignore
+.expo
+.watchmanconfig
+app.json
+babel.config.js
+package.json
